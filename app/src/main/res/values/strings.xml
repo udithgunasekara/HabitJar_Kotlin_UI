@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ass2</string>
+    <string name="say_hello">Hello, Welcome Back Udith !</string>
+    <string name="buttonAction">Complete</string>
+    <string name="headJournal">Journal Goal</string>
+    <string name="journal_title">Write Your Day</string>
+    <string name="j_addbutton">Add Here</string>
+    <string name="startButton">Start</string>
+</resources>
